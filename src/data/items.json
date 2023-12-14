@@ -1,0 +1,86 @@
+[
+  {
+    "food": [
+      {
+        "id": 1,
+        "name": "Пельмени",
+        "price": 505.05,
+        "imgUrl": "/imgs/pelmeni.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Пицца",
+        "price": 799,
+        "imgUrl": "/imgs/myasnaya.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Рыба",
+        "price": 1099,
+        "imgUrl": "/imgs/fish.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Бананы",
+        "price": 10.99,
+        "imgUrl": "/imgs/banana.jpg"
+      }
+    ]
+  },
+  {
+    "clothes": [
+      {
+        "id": 5,
+        "name": "Куртка",
+        "price": 3505.05,
+        "imgUrl": "/imgs/kurtka.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Свитер",
+        "price": 2000,
+        "imgUrl": "/imgs/svitery.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Рубашки",
+        "price": 2000,
+        "imgUrl": "/imgs/rubashki.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Джинсы",
+        "price": 1799,
+        "imgUrl": "/imgs/jins.jpg"
+      }
+    ]
+  },
+  {
+    "electronics": [
+      {
+        "id": 9,
+        "name": "Телевизор",
+        "price": 8099,
+        "imgUrl": "/imgs/televizor.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Стиральная машина",
+        "price": 27990,
+        "imgUrl": "/imgs/stiral.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Пылесос",
+        "price": 7099,
+        "imgUrl": "/imgs/pilesos.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Компьютор",
+        "price": 15505.05,
+        "imgUrl": "/imgs/computer.jpg"
+      }
+    ]
+  }
+]
